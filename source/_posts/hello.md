@@ -20,12 +20,11 @@ tags:
 4. cat 连接文件并打印它的内容(显示内容)
 - $ cat demo
 5. rm 删除文件
-- $ rm demo
-  强制删除文件
-- $ rm -rf demo
+- $ rm demo  
+- $ rm -rf demo (强制删除文件)
 6. mkdir 创建文件夹
 - $ mkdir demo
 7. pwd 查看当前完整的路径
 - $ pwd
-8. 如何使用（https://explainshell.com）这个网站
+8.[如何使用]（https://explainshell.com）
 explainshell.com 这个网站是命令行释义 你只需要把你需要解释的命令输入搜索框然后回车下方就会出现一个类似于树状图表解释其搜索的命令。并可解释单个命令的意思。
